@@ -1,0 +1,4 @@
+yii-rights
+==========
+
+yii-rights
